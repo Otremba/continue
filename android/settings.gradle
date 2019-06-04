@@ -1,0 +1,3 @@
+rootProject.name = 'continue'
+
+include ':app'
